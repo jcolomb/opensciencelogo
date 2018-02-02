@@ -1,7 +1,9 @@
+![logo](https://raw.githubusercontent.com/jcolomb/opensciencelogo/master/latest_72.png)
+
 # opensciencelogo
 
 I am putting here all the data I used to create my open science logo.
-
+I am not a designer, please feel free to make changes and notify me !
 
 # source
 
