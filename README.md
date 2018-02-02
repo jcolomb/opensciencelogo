@@ -14,4 +14,6 @@ osf badges: Blohowiak, B. B., Cohoon, J., de-Wit, L., Eich, E., Farach, F. J., H
 
 open access logo: By art designer at PLoS, modified by Wikipedia users Nina, Beao, and JakobVoss (http://www.plos.org/) [CC0], via Wikimedia Commons
 
+OER: https://commons.wikimedia.org/wiki/File:OER_Logo.svg public domain
+
 cartoon (not used for logo): John R. McKiernan at http://whyopenresearch.org [CC BY]
