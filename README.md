@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/jcolomb/opensciencelogo/master/latest_72.png)
+![logo](https://raw.githubusercontent.com/jcolomb/opensciencelogo/master/latest_150.png)
 
 # opensciencelogo
 
