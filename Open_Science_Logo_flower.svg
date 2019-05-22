@@ -18,7 +18,7 @@
    viewBox="0 0 793.7008 1122.5196"
    sodipodi:docname="Open_Science_Logo_flower.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="D:\opensciencelogo\Open_Science_Logo_sq_colomb.png"
+   inkscape:export-filename="C:\Users\juliencolomb\gitubstuff\opensciencelogo\flower150.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <metadata
@@ -117,12 +117,12 @@
      id="namedview817"
      showgrid="false"
      inkscape:zoom="0.31311704"
-     inkscape:cx="-15.293694"
+     inkscape:cx="-55.214868"
      inkscape:cy="653.51605"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2182"
+     inkscape:current-layer="layer1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -133,8 +133,14 @@
      id="layer1"
      inkscape:label="fond"
      style="display:inline;opacity:1"
-     transform="translate(1125.9015,-2242.024)"
-     sodipodi:insensitive="true">
+     transform="translate(1125.9015,-2242.024)">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7057"
+       width="814.39197"
+       height="1114.5992"
+       x="-1132.2889"
+       y="2246.7507" />
     <g
        inkscape:groupmode="layer"
        id="layer2"
