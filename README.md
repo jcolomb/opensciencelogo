@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/jcolomb/opensciencelogo/master/flower150.png)
+![logo](https://raw.githubusercontent.com/open-science-promoters/opensciencelogo/master/flower150.png)
 
 # opensciencelogo
 
