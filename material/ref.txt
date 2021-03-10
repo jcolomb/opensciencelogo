@@ -11,3 +11,5 @@ open hardware: Mateo Zlatar [CC BY SA]
 open source:  	Open Source Initiative official SVG [CC BY]
 
 sticker open science just science done right: Melanie Imming, & Jon Tennant. [CC BY] 10.5281/zenodo.1285574
+
+local/berlin: NordNordWest [CC BY SA]
