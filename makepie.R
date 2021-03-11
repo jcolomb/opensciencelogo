@@ -72,3 +72,11 @@ print(animation)
 image_write (animation, path = "pie2.gif")
 
 #image_flatten(c(x2,rotatedimg2)) 
+
+##
+imgnew= image_read ("pie2.gif")
+
+imgnew %>%image_resize("600x")%>% 
+image_animate(loop =0, delay = 18, optimize=TRUE)%>% 
+  image_write("pie3.gif")
+
